@@ -18,14 +18,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "churro"
+                    "default": "spanishdelight:churro"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:churro",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

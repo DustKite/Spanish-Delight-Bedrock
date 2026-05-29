@@ -18,14 +18,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "pantumaca"
+                    "default": "spanishdelight:pantumaca"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:pantumaca",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

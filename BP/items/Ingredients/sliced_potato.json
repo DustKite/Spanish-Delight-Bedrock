@@ -24,7 +24,7 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "sliced_potato"
+                    "default": "spanishdelight:sliced_potato"
                 }
             }
         },

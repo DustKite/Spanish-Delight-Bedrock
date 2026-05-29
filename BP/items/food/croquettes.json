@@ -18,14 +18,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "croquettes"
+                    "default": "spanishdelight:croquettes"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:croquettes",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

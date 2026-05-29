@@ -23,7 +23,7 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "sliced_onion"
+                    "default": "spanishdelight:sliced_onion"
                 }
             }
         },

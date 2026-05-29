@@ -23,7 +23,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "garlic"
+                    "default": "spanishdelight:garlic"
                 }
             }
         },

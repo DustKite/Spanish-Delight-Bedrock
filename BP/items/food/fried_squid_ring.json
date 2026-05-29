@@ -23,14 +23,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "fried_squid_ring"
+                    "default": "spanishdelight:fried_squid_ring"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:fried_squid_ring",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

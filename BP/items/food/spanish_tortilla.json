@@ -18,14 +18,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "spanish_tortilla"
+                    "default": "spanishdelight:spanish_tortilla"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:spanish_tortilla",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

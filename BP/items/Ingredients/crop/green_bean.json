@@ -27,7 +27,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "green_bean"
+                    "default": "spanishdelight:green_bean"
                 }
             }
         },

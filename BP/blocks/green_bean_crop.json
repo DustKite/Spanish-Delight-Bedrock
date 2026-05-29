@@ -159,10 +159,11 @@
                 "accepts_connections_from": "none"
             },
             "farmersdelight:crop": {
-                "loot": "loot_tables/spanishdelight/crops/green_bean_riped.json",
+                "loot": "loot_tables/spanishdelight/empty.json",
                 "state": {
                     "name": "farmersdelight:growth",
-                    "age": 5
+                    "age": 5,
+                    "age_after_harvest": 5
                 }
             },
             "minecraft:material_instances": {

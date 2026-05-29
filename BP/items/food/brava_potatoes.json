@@ -19,14 +19,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "brava_potatoes"
+                    "default": "spanishdelight:brava_potatoes"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:brava_potatoes",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

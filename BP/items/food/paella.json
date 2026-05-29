@@ -19,14 +19,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "paella"
+                    "default": "spanishdelight:paella"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:paella",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

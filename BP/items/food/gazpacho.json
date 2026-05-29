@@ -19,14 +19,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "gazpacho"
+                    "default": "spanishdelight:gazpacho"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:gazpacho",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

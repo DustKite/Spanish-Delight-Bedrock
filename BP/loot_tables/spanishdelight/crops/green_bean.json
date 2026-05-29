@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "item",
-          "name": "minecraft:green_bean",
+          "name": "spanishdelight:green_bean",
           "functions": [
             {
               "function": "set_count",

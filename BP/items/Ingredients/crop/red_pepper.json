@@ -24,7 +24,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "red_pepper"
+                    "default": "spanishdelight:red_pepper"
                 }
             }
         },

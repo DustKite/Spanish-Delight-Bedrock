@@ -12,7 +12,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "wild_red_pepper"
+                    "default": "spanishdelight:wild_red_pepper"
                 }
             }
         },

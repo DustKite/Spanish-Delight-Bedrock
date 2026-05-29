@@ -19,14 +19,14 @@
             "minecraft:use_animation": "eat",
             "minecraft:icon": {
                 "textures": {
-                    "default": "pil_pil_cod"
+                    "default": "spanishdelight:pil_pil_cod"
                 }
             }
         },
         "description": {
             "identifier": "spanishdelight:pil_pil_cod",
             "menu_category": {
-                "category": "items",
+                "category": "equipment",
                 "group": "farmersdelight:itemGroup.name.miscFood"
             }
         }

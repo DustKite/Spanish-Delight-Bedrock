@@ -24,7 +24,7 @@
             },
             "minecraft:icon": {
                 "textures": {
-                    "default": "green_pepper"
+                    "default": "spanishdelight:green_pepper"
                 }
             }
         },
@@ -32,7 +32,7 @@
             "identifier": "spanishdelight:green_pepper",
             "menu_category": {
                 "category": "nature",
-                "group": "farmersdelight:farmersdelight:itemGroup.name.crop"
+                "group": "farmersdelight:itemGroup.name.crop"
             }
         }
     }
