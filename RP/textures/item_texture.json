@@ -1,0 +1,66 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "brava_potatoes": {
+      "textures": "textures/items/sd_brava_potatoes"
+    },
+    "churro": {
+      "textures": "textures/items/sd_churro"
+    },
+    "croquettes": {
+      "textures": "textures/items/sd_croquettes"
+    },
+    "fried_squid_ring": {
+      "textures": "textures/items/sd_fried_squid_ring"
+    },
+    "garlic": {
+      "textures": "textures/items/sd_garlic"
+    },
+    "gazpacho": {
+      "textures": "textures/items/sd_gazpacho"
+    },
+    "green_bean": {
+      "textures": "textures/items/sd_green_bean"
+    },
+    "green_pepper": {
+      "textures": "textures/items/sd_green_pepper"
+    },
+    "paella": {
+      "textures": "textures/items/sd_paella"
+    },
+    "pantumaca": {
+      "textures": "textures/items/sd_pantumaca"
+    },
+    "paprika": {
+      "textures": "textures/items/sd_paprika"
+    },
+    "pil_pil_cod": {
+      "textures": "textures/items/sd_pil_pil_cod"
+    },
+    "red_pepper": {
+      "textures": "textures/items/sd_red_pepper"
+    },
+    "sliced_onion": {
+      "textures": "textures/items/sd_sliced_onion"
+    },
+    "sliced_potato": {
+      "textures": "textures/items/sd_sliced_potato"
+    },
+    "spanish_tortilla": {
+      "textures": "textures/items/sd_spanish_tortilla"
+    },
+    "squid_ring": {
+      "textures": "textures/items/sd_squid_ring"
+    },
+    "wild_garlic": {
+      "textures": "textures/items/sd_wild_garlic"
+    },
+    "wild_green_pepper": {
+      "textures": "textures/items/sd_wild_green_pepper"
+    },
+    "wild_red_pepper": {
+      "textures": "textures/items/sd_wild_red_pepper"
+    }
+  }
+}

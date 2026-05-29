@@ -1,0 +1,62 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "a7c080f0-bfcf-46a3-a525-133024b13bc4",
+    "version": [
+      5,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      26,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b1ab21e5-8295-4408-82cf-f3aafa3017df",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "description": "Spanish Delight Scripts",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "e4ef4ed4-7bde-47c4-8c86-66dee87b37ef",
+      "version": [
+        5,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Dust_Kite/Elaikes"
+    ],
+    "license": "GPLv3",
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "8cdbed21-2dd7-4cb9-91a3-6febf77d20bc",
+      "version": [
+        5,
+        0,
+        0
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.0.0"
+    }
+  ]
+}

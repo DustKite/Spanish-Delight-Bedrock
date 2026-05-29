@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "spanishdelight:gazpacho_2"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "TGW",
+      "BV"
+    ],
+    "key": {
+      "T": {
+        "tag": "farmersdelight:is_tomato"
+      },
+      "G": {
+        "tag": "farmersdelight:is_garlic_clove"
+      },
+      "W": {
+        "item": "minecraft:water_bucket"
+      },
+      "B": {
+        "item": "minecraft:bread"
+      },
+      "V": {
+        "item": "minecraft:bowl"
+      }
+    },
+    "result": [
+      {
+        "item": "spanishdelight:gazpacho",
+        "count": 1
+      },
+      {
+        "item": "minecraft:bucket",
+        "count": 1
+      }
+    ]
+  }
+}

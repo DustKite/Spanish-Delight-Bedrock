@@ -1,0 +1,33 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "components": {
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            },
+            "minecraft:max_stack_size": 16,
+            "minecraft:food": {
+                "nutrition": 7,
+                "saturation_modifier": 0.8,
+                "can_always_eat": false
+            },
+            "minecraft:compostable": {
+                "composting_chance": 85
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:icon": {
+                "textures": {
+                    "default": "spanish_tortilla"
+                }
+            }
+        },
+        "description": {
+            "identifier": "spanishdelight:spanish_tortilla",
+            "menu_category": {
+                "category": "items",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        }
+    }
+}

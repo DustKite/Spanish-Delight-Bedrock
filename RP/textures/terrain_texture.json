@@ -1,0 +1,31 @@
+{
+  "texture_data": {
+    "green_bean_crop_stage0": {
+      "textures": "textures/blocks/sd_green_bean_crop_stage0"
+    },
+    "green_bean_crop_stage1": {
+      "textures": "textures/blocks/sd_green_bean_crop_stage1"
+    },
+    "green_bean_crop_stage2": {
+      "textures": "textures/blocks/sd_green_bean_crop_stage2"
+    },
+    "green_bean_crop_stage3": {
+      "textures": "textures/blocks/sd_green_bean_crop_stage3"
+    },
+    "green_bean_crop_stage4": {
+      "textures": "textures/blocks/sd_green_bean_crop_stage4"
+    },
+    "green_bean_crop_stage5": {
+      "textures": "textures/blocks/sd_green_bean_crop_stage5"
+    },
+    "sd_wild_garlic": {
+      "textures": "textures/blocks/sd_wild_garlic"
+    },
+    "sd_wild_green_pepper": {
+      "textures": "textures/blocks/sd_wild_green_pepper"
+    },
+    "sd_wild_red_pepper": {
+      "textures": "textures/blocks/sd_wild_red_pepper"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "format_version": "1.20.0",
+    "minecraft:aggregate_feature": {
+        "description": {
+            "identifier": "spanishdelight:wild_garlic_aggregate_feature"
+        },
+        "features": [
+            "spanishdelight:scatter_wild_garlic_feature",
+            "spanishdelight:scatter_short_grass_feature"
+        ]
+    }
+}

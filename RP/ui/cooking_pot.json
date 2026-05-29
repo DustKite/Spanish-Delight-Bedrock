@@ -1,0 +1,635 @@
+{
+  "spanish_delight_recipe_part_0": {
+    "type": "panel",
+    "size": [
+      150,
+      38
+    ],
+    "controls": [
+      {
+        "brava_potatoes@cooking_pot.cooking_pot_recipe": {
+          "offset": [
+            -37.5,
+            0
+          ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  {
+                    "cell0": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_sliced_potato"
+                    }
+                  },
+                  {
+                    "cell1": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_sliced_potato"
+                    }
+                  },
+                  {
+                    "cell2": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_paprika"
+                    }
+                  },
+                  {
+                    "container": {
+                      "type": "image",
+                      "offset": [
+                        6,
+                        10.875
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/bowl"
+                    }
+                  },
+                  {
+                    "result": {
+                      "type": "image",
+                      "offset": [
+                        21,
+                        -5.25
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_brava_potatoes"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "churro@cooking_pot.cooking_pot_recipe": {
+          "offset": [
+            37.5,
+            0
+          ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  {
+                    "cell0": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/egg"
+                    }
+                  },
+                  {
+                    "cell1": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sugar"
+                    }
+                  },
+                  {
+                    "cell2": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/wheat_dough"
+                    }
+                  },
+                  {
+                    "result": {
+                      "type": "image",
+                      "offset": [
+                        21,
+                        -5.25
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_churro"
+                    }
+                  },
+                  {
+                    "count": {
+                      "type": "label",
+                      "text": "3",
+                      "font_scale_factor": 0.5,
+                      "size": [
+                        15,
+                        15
+                      ],
+                      "offset": [
+                        31,
+                        2
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "spanish_delight_recipe_part_1": {
+    "type": "panel",
+    "size": [
+      150,
+      38
+    ],
+    "controls": [
+      {
+        "croquettes@cooking_pot.cooking_pot_recipe": {
+          "offset": [
+            -37.5,
+            0
+          ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  {
+                    "cell0": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/wheat_dough"
+                    }
+                  },
+                  {
+                    "cell1": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/egg"
+                    }
+                  },
+                  {
+                    "cell2": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/bread"
+                    }
+                  },
+                  {
+                    "result": {
+                      "type": "image",
+                      "offset": [
+                        21,
+                        -5.25
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_croquettes"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "paella@cooking_pot.cooking_pot_recipe": {
+          "offset": [
+            37.5,
+            0
+          ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  {
+                    "cell0": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/rabbit"
+                    }
+                  },
+                  {
+                    "cell1": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/chicken_cuts"
+                    }
+                  },
+                  {
+                    "cell2": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/rice"
+                    }
+                  },
+                  {
+                    "cell3": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_paprika"
+                    }
+                  },
+                  {
+                    "cell4": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_green_bean"
+                    }
+                  },
+                  {
+                    "cell5": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_garlic"
+                    }
+                  },
+                  {
+                    "container": {
+                      "type": "image",
+                      "offset": [
+                        6,
+                        10.875
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/bowl"
+                    }
+                  },
+                  {
+                    "result": {
+                      "type": "image",
+                      "offset": [
+                        21,
+                        -5.25
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_paella"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "spanish_delight_recipe_part_2": {
+    "type": "panel",
+    "size": [
+      150,
+      38
+    ],
+    "controls": [
+      {
+        "pil_pil_cod@cooking_pot.cooking_pot_recipe": {
+          "offset": [
+            -37.5,
+            0
+          ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  {
+                    "cell0": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_green_pepper"
+                    }
+                  },
+                  {
+                    "cell1": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/cod"
+                    }
+                  },
+                  {
+                    "cell2": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_sliced_potato"
+                    }
+                  },
+                  {
+                    "cell3": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_garlic"
+                    }
+                  },
+                  {
+                    "container": {
+                      "type": "image",
+                      "offset": [
+                        6,
+                        10.875
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/bowl"
+                    }
+                  },
+                  {
+                    "result": {
+                      "type": "image",
+                      "offset": [
+                        21,
+                        -5.25
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_pil_pil_cod"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "spanish_tortilla@cooking_pot.cooking_pot_recipe": {
+          "offset": [
+            37.5,
+            0
+          ],
+          "controls": [
+            {
+              "recipe_cell@cooking_pot.cooking_pot_recipe_cell": {
+                "controls": [
+                  {
+                    "cell0": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_sliced_potato"
+                    }
+                  },
+                  {
+                    "cell1": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_sliced_onion"
+                    }
+                  },
+                  {
+                    "cell2": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        -7
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/egg"
+                    }
+                  },
+                  {
+                    "cell3": {
+                      "type": "image",
+                      "offset": [
+                        -23,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/egg"
+                    }
+                  },
+                  {
+                    "cell4": {
+                      "type": "image",
+                      "offset": [
+                        -14.625,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/egg"
+                    }
+                  },
+                  {
+                    "cell5": {
+                      "type": "image",
+                      "offset": [
+                        -6.25,
+                        1.5
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/egg"
+                    }
+                  },
+                  {
+                    "result": {
+                      "type": "image",
+                      "offset": [
+                        21,
+                        -5.25
+                      ],
+                      "size": [
+                        7.5,
+                        7.5
+                      ],
+                      "texture": "textures/items/sd_spanish_tortilla"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "recipe_grid_panel": {
+    "modifications": [
+      {
+        "array_name": "controls",
+        "operation": "insert_back",
+        "value": [
+          {
+            "spanish_delight_grid_0@cooking_pot.spanish_delight_recipe_part_0": {}
+          },
+          {
+            "spanish_delight_grid_1@cooking_pot.spanish_delight_recipe_part_1": {}
+          },
+          {
+            "spanish_delight_grid_2@cooking_pot.spanish_delight_recipe_part_2": {}
+          }
+        ]
+      }
+    ]
+  }
+}

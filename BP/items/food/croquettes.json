@@ -1,0 +1,33 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:item": {
+        "components": {
+            "minecraft:use_modifiers": {
+                "use_duration": 1.6,
+                "movement_modifier": 0.4
+            },
+            "minecraft:max_stack_size": 64,
+            "minecraft:food": {
+                "nutrition": 6,
+                "saturation_modifier": 0.6,
+                "can_always_eat": false
+            },
+            "minecraft:compostable": {
+                "composting_chance": 35
+            },
+            "minecraft:use_animation": "eat",
+            "minecraft:icon": {
+                "textures": {
+                    "default": "croquettes"
+                }
+            }
+        },
+        "description": {
+            "identifier": "spanishdelight:croquettes",
+            "menu_category": {
+                "category": "items",
+                "group": "farmersdelight:itemGroup.name.miscFood"
+            }
+        }
+    }
+}

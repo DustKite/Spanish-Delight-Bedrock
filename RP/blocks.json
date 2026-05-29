@@ -1,0 +1,19 @@
+{
+    "format_version": [
+        1,
+        1,
+        0
+    ],
+    "spanishdelight:wild_garlic": {
+        "sound": "grass"
+    },
+    "spanishdelight:wild_red_pepper": {
+        "sound": "grass"
+    },
+    "spanishdelight:wild_green_pepper": {
+        "sound": "grass"
+    },
+    "spanishdelight:green_bean": {
+        "sound": "grass"
+    }
+}
