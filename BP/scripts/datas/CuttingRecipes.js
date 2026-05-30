@@ -46,5 +46,53 @@ export const CuttingBoardRecipes = [
         },
         is_block_type: false,
         sound: "use.wood"
+    },
+    {
+        ingredients: {
+            item: "spanishdelight:wild_green_pepper"
+        },
+        result: [
+            {
+                item: "spanishdelight:green_pepper",
+                count: 5
+            }
+        ],
+        tool: {
+            tag: "farmersdelight:is_knife"
+        },
+        is_block_type: false,
+        sound: "use.wood"
+    },
+    {
+        ingredients: {
+            item: "spanishdelight:wild_red_pepper"
+        },
+        result: [
+            {
+                item: "spanishdelight:red_pepper",
+                count: 5
+            }
+        ],
+        tool: {
+            tag: "farmersdelight:is_knife"
+        },
+        is_block_type: false,
+        sound: "use.wood"
+    },
+    {
+        ingredients: {
+            item: "spanishdelight:wild_garlic"
+        },
+        result: [
+            {
+                item: "spanishdelight:garlic",
+                count: 5
+            }
+        ],
+        tool: {
+            tag: "farmersdelight:is_knife"
+        },
+        is_block_type: false,
+        sound: "use.wood"
     }
 ];
