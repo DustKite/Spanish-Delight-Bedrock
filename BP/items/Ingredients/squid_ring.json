@@ -1,5 +1,5 @@
 {
-    "format_version": "1.26.0",
+    "format_version": "1.21.90",
     "minecraft:item": {
         "components": {
             "minecraft:use_modifiers": {
@@ -16,6 +16,9 @@
                 "tags": [
                     "farmersdelight:raw_squid_ring"
                 ]
+            },
+            "farmersdelight:cookable": {
+                "result": "spanishdelight:fried_squid_ring"
             },
             "minecraft:compostable": {
                 "composting_chance": 30

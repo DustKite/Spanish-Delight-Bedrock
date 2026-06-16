@@ -1,5 +1,5 @@
 {
-  "format_version": "1.26.0",
+  "format_version": "1.21.90",
   "minecraft:block": {
     "description": {
       "identifier": "spanishdelight:wild_green_pepper"
@@ -13,24 +13,6 @@
       "minecraft:destructible_by_explosion": {
         "explosion_resistance": 0.1
       },
-      "minecraft:connection_rule": {
-        "accepts_connections_from": "none"
-      },
-      "minecraft:flower_pottable": {},
-      "minecraft:embedded_visual": {
-        "geometry": "geometry.cross_crop_pot",
-        "material_instances": {
-          "*": {
-            "texture": "wild_green_pepper",
-            "render_method": "alpha_test",
-            "ambient_occlusion": false,
-            "face_dimming": false
-          }
-        }
-      },
-      "minecraft:precipitation_interactions": {
-        "precipitation_behavior": "none"
-      },
       "minecraft:geometry": "minecraft:geometry.cross",
       "minecraft:material_instances": {
         "*": {
@@ -38,25 +20,6 @@
           "render_method": "alpha_test_single_sided",
           "ambient_occlusion": false,
           "face_dimming": false
-        }
-      },
-      "minecraft:movable": {
-        "movement_type": "popped"
-      },
-      "minecraft:random_offset": {
-        "x": {
-          "steps": 0,
-          "range": {
-            "min": -4,
-            "max": 4
-          }
-        },
-        "z": {
-          "steps": 0,
-          "range": {
-            "min": -4,
-            "max": 4
-          }
         }
       },
       "minecraft:liquid_detection": {
